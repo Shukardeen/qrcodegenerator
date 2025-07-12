@@ -16,14 +16,6 @@ A web application that generates QR codes from text or URLs with a beautiful use
 - **Cross-platform**: Works on desktop and mobile devices
 - **No Dependencies**: Pure vanilla JavaScript implementation
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-
-### QR Code Generated
-![QR Generated](screenshots/qr-generated.png)
-
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup and structure
